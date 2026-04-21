@@ -1,5 +1,8 @@
-# 🎮 Shooter AI Demo (Unreal Engine)
 
+# 🎮 Shooter AI Demo (Unreal Engine)
+<p align="center">
+<img width="652" height="320" alt="Infiltrator" src="https://github.com/user-attachments/assets/1cdce78d-3e3d-4e0f-b0c7-20f752ab1825" />
+</p>
 This project is a third-person / FPS-style shooter built in Unreal Engine, focusing on **AI behavior systems** and **animation integration** using C++ and Blueprint.
 
 ---
